@@ -1,4 +1,4 @@
-### Olá eu sou Fernando Figueira Estudante 👋
+### Olá eu sou Fernando Figueira 👋
 
 - 🌱 Estudando JavaScript
 
