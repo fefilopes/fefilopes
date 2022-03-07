@@ -1,6 +1,6 @@
 ### Olá eu sou Fernando Figueira 👋
 
-- 🌱 Estudando JavaScript
+- Desenvolvedor Junior
 
 <div align="center">
   <a href="https://github.com/fefilopes">
